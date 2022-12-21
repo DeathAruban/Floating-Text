@@ -33,7 +33,7 @@ Before proceeding check the affected version of floating text if it is compatibl
 | 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | < 1.15.0   | :x:               | :x: | :x: | :x: | 
 
-## Minecraft Bedrock Editon Beta/Preview
+## Support for minecraft Beta/Preview
 
 | Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | FL+ Menu |
 | ------- | ------------------   | ------- | ------- | ------- |
