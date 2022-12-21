@@ -20,8 +20,10 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Floating-Text">
 </p>
 
-<p align="center">
-| ## Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | Fl+ Menu |
+##Warning
+Before proceeding check the affected version of floating text if it is compatible with Minecraft Bedrock
+
+| Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | Fl+ Menu |
 | ------- | ------------------   | ------- | ------- | ------- |
 | 1.20.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |    
 | Version MCBE|
@@ -30,4 +32,3 @@
 | 1.17.x   |  :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | < 1.15.0   | :x:               | :white_check_mark: | :x: | :x: | 
-</p>
