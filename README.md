@@ -1,5 +1,4 @@
 <p align="center">
-	<a href="https://pmmp.io">
 		<!--[if IE]>
 			<img src="https://github.com/DeathAruban/Floating-Text/blob/main/floating%20text%202.png" alt="FLoating Text Logo" title="PocketMine" loading="eager" />
 		<![endif]-->
