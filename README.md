@@ -37,5 +37,5 @@ Before proceeding check the affected version of floating text if it is compatibl
 ## Floating Text+ (summon)
 To use the summoned version, just run
 
-| /summon da:floating_text in chat |
+| /summon da:floating_text in chat-copybutton |
 | -------------------------    |
