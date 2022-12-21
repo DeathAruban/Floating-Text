@@ -20,12 +20,12 @@ currently being supported with security updates.
 | ## Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | Fl+ Menu |
 | ------- | ------------------   | ------- | ------- | ------- |
 | 1.20.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |    
-| Version MCBE| Supported        | 
-| 1.19.x   | :white_check_mark:  | 
-| 1.18.x   | :white_check_mark:  | 
-| 1.17.x   |  :white_check_mark: | 
-| 1.16.x   | :white_check_mark:  | 
-| < 1.15.0   | :x:               | 
+| Version MCBE|
+| 1.19.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
+| 1.18.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
+| 1.17.x   |  :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
+| 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
+| < 1.15.0   | :x:               | :white_check_mark: | :x: | :x: |   
 
 
 ## Reporting a Vulnerability
