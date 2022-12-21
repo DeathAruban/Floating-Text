@@ -31,4 +31,10 @@ Before proceeding check the affected version of floating text if it is compatibl
 | 1.18.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | 1.17.x   |  :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
-| < 1.15.0   | :x:               | :white_check_mark: | :x: | :x: | 
+| < 1.15.0   | :x:               | :x: | :x: | :x: | 
+
+#How does it work
+##Floating Text+ (summon)
+
+|To use the summoned version, just run /summon da:floating_text in chat |
+| -------------------------    |
