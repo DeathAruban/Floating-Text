@@ -23,6 +23,8 @@
 ## Warning
 Before proceeding check the affected version of floating text if it is compatible with Minecraft Bedrock
 
+## Support for minecraft base worlds
+
 | Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | FL+ Menu |
 | ------- | ------------------   | ------- | ------- | ------- |
 | 1.20.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :x: |    
@@ -33,6 +35,7 @@ Before proceeding check the affected version of floating text if it is compatibl
 | 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | < 1.15.0   | :x:               | :x: | :x: | :x: | 
 
+## Support for minecraft base Server and Realms
 
 | Server/Realms MCBE | Supported   | FL+ Summon | FL+ Item | FL+ Menu |
 | ------- | ------------------   | ------- | ------- | ------- |    
