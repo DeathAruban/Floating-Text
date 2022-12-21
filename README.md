@@ -8,11 +8,10 @@
 			<img src="https://github.com/DeathAruban/Floating-Text/blob/main/floating%20text%202.png" loading="eager" />
 		</picture>
 	</a><br>
-	<b>A highly customisable, Addon Floating Text+ for Minecraft: Bedrock Edition written in PHP</b>
+	<b>A highly customisable, Addon Floating Text+ for Minecraft: Bedrock Edition written in Json</b>
 </p>
 
 <p align="center">
-	<a href="https:https://github.com/DeathAruban/Floating-Text/actions/workflows/main.yml"><img src="https://https://github.com/DeathAruban/Floating-Text/workflows/CI/badge.svg" alt="CI" /></a>
 	<a href="https://github.com/DeathAruban/Floating-Text/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Floating-Text?label=release&sort=semver"></a>
 	<a href="https://discord.gg/bmSAZBG"><img src="https://img.shields.io/discord/373199722573201408?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
 	<br>
