@@ -35,7 +35,8 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 # How does it work
 ## Floating Text+ (summon)
-To use the summoned version, just run
+To use the summoned version, just run in chat
 
-| /summon da:floating_text in chat-copybutton |
-| -------------------------    |
+```bash
+ /summon da:floating_text
+```
