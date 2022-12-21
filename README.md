@@ -49,9 +49,11 @@ to eliminate the floating text do
 
 Just switch the game mode to Creative and search your inventory.
 </p>
+
 to give it a name, just insert it into the anvil and rename it.
-</p>
+</a>
 to eliminate the floating text do
+
 ```bash
  /kill @e[type:da:floating_text,r=1] ~ ~ ~
 ```
