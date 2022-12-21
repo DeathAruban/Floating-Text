@@ -8,8 +8,8 @@
 			<img src="https://github.com/DeathAruban/Floating-Text/blob/main/floating%20text%202.png" loading="eager" />
 		</picture>
 	</a><br>
-	<b>A highly customisable, Addon Floating Text+ for Minecraft: Bedrock Edition written in Json</b>
 </p>
+
 # Security Policy
 
 ## Supported Versions Minecraft Bedrock Edition
@@ -17,12 +17,13 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version MCBE| Supported            |
+| ------- | ------------------   |
+| 1.19.x   | :white_check_mark:  |
+| 1.18.x   | :white_check_mark:  |
+| 1.17.x   |  :white_check_mark: |
+| 1.16.x   | :white_check_mark:  |
+| < 1.15.0   | :x:               |
 
 ## Reporting a Vulnerability
 
