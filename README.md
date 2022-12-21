@@ -25,7 +25,7 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 | Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | FL+ Menu |
 | ------- | ------------------   | ------- | ------- | ------- |
-| 1.20.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |    
+| 1.20.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :x: |    
 | Version MCBE|
 | 1.19.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | 1.18.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
