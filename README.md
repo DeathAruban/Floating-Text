@@ -16,5 +16,6 @@
 	<a href="https://github.com/DeathAruban/Floating-Text/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Floating-Text/latest/total?sort=semver"></a>
 <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/-xR-FUy7Jjk?style=social">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DeathAruban/Floating-Text">
+<img alt="Cocoapods platforms" src="https://img.shields.io/cocoapods/p/ios?color=green">
 </p>
 
