@@ -75,6 +75,8 @@ to eliminate the floating text do
 ## Floating Text+ (Item)
 
 Just switch the game mode to Creative and search your inventory.
+<img src="https://github.com/DeathAruban/Floating-Text/blob/main/Texture/textures/items/floating_text.png" alt="FLoating Text Logo" title="Floating" 
+
 </p>
 
 to give it a name, just insert it into the anvil and rename it.
