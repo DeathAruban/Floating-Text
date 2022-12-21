@@ -49,8 +49,16 @@ Before proceeding check the affected version of floating text if it is compatibl
 | 1.16.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | < 1.15.x   | :x:               | :x: | :x: | :x: | 
 
+## Suppport device for minecraft bedrock edition
 
-
+| Device | Supported   | FL+ Summon | FL+ Item | FL+ Menu |
+| ------- | ------------------   | ------- | ------- | ------- |    
+| Android  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
+| Ios  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
+| windows 10/11  |  :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
+| PS4/PS5  | :x:               | :x: | :x: | :x: |   
+| Xbox x/s   | :x:               | :x: | :x: | :x: | 
+| Switch | :x:               | :x: | :x: | :x: | 
 
 # How does it work
 ## Floating Text+ (summon)
