@@ -17,8 +17,8 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| ## Version MCBE Beta| Supported   |
-| ------- | ------------------   |
+| ## Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | Fl+ Menu |
+| ------- | ------------------   | ------- | ------- | ------- |
 | 1.20.x   | :white_check_mark:  | 
 | Version MCBE| Supported        | 
 | 1.19.x   | :white_check_mark:  | 
@@ -27,11 +27,6 @@ currently being supported with security updates.
 | 1.16.x   | :white_check_mark:  | 
 | < 1.15.0   | :x:               | 
 
-
-Verisone Floating
-
-|FL+ Summon | FL+ Item | Fl+ Menu |
-| ------- | ------- | ------- |
 
 ## Reporting a Vulnerability
 
