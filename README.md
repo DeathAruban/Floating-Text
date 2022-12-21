@@ -13,6 +13,6 @@
 <p align="center">
 	<a href="https://github.com/DeathAruban/Floating-Text/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Floating-Text?label=release&sort=semver"></a>
 	<a href="https://github.com/DeathAruban/Floating-Text/releases"><img alt="GitHub all releases" src="https://img.shields.io/github.com/DeathAruban/Floating-Text/total?label=downloads%40total"></a>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@DeathArubanTM)
 	<a href="https://github.com/DeathAruban/Floating-Text/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Floating-Text/latest/total?sort=semver"></a>
 </p>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=-xR-FUy7Jjk&t=5s)
