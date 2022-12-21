@@ -20,7 +20,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Floating-Text">
 </p>
 
-##Warning
+## Warning
 Before proceeding check the affected version of floating text if it is compatible with Minecraft Bedrock
 
 | Version MCBE Beta| Supported   | FL+ Summon | FL+ Item | Fl+ Menu |
