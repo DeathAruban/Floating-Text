@@ -40,3 +40,8 @@ To use the summoned version, just run in chat
 ```bash
  /summon da:floating_text
 ```
+to eliminate the floating text do
+```bash
+ /kill @e[type:da:floating_text,r=1] ~ ~ ~
+```
+
