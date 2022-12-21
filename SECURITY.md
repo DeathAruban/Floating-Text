@@ -24,8 +24,6 @@ currently being supported with security updates.
 | 1.17.x   |  :white_check_mark: |
 | 1.16.x   | :white_check_mark:  |
 | < 1.15.0   | :x:               |
-
-
 | Version MCBE Beta| Supported            |
 | 1.20.x   | :white_check_mark:  |
 
