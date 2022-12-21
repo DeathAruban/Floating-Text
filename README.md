@@ -25,7 +25,7 @@ Before proceeding check the affected version of floating text if it is compatibl
 
 ## Support for minecraft base worlds
 
-| Version MCBE|
+| Version MCBE| Supported   | FL+ Summon | FL+ Item | FL+ Menu |
 | ------- | ------------------   | ------- | ------- | ------- |  
 | 1.19.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
 | 1.18.x   | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: |   
