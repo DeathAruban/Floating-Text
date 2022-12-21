@@ -30,7 +30,7 @@ currently being supported with security updates.
 
 Verisone Floating
 
- FL+ Summon | FL+ Item | Fl+ Menu |
+|FL+ Summon | FL+ Item | Fl+ Menu |
 | ------- | ------------------   |
 
 ## Reporting a Vulnerability
